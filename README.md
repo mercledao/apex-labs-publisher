@@ -4,7 +4,7 @@ Publisher of Mercle and Distracted for the Solana Seeker.
 
 Apex Labs Pte Ltd publishes identity apps and games. This publisher page covers all apps published under our Solana Mobile publisher account.
 
-Publisher home: [mercledao.github.io/apex-labs-publisher](https://mercledao.github.io/apex-labs-publisher/)
+Publisher home: [timesnap.xyz](https://timesnap.xyz/)
 
 ---
 
